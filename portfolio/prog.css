@@ -73,3 +73,7 @@
   color: #fff;
   font-size: larger;
 }
+#footer p{
+  text-align: center;
+  padding-top: 1rem;
+}
